@@ -25,8 +25,6 @@ npm start
 ```
 Make sure MetaMask is installed and unlocked.
 
-📸 Preview
-
 🧠 Learnings
 Hands-on with wallet integration using ethers.BrowserProvider
 
